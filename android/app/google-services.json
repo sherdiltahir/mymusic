@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "607947520667",
+    "firebase_url": "https://mpire2.firebaseio.com",
+    "project_id": "mpire2",
+    "storage_bucket": "mpire2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607947520667:android:30a195798bc1fa0f36e43e",
+        "android_client_info": {
+          "package_name": "com.deasil.mpire2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607947520667-1nharddnndj41h83ln9cgs8o2q5jv21k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deasil.mpire2",
+            "certificate_hash": "01a17b127986b9ba4684ce6acc8a5dbc02e9721e"
+          }
+        },
+        {
+          "client_id": "607947520667-ms6rbgoeop3rge7qi1iro10aknraqhfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deasil.mpire2",
+            "certificate_hash": "35bfc97a92a9351b225f5c80530f8fd4cd915fcf"
+          }
+        },
+        {
+          "client_id": "607947520667-1qrcbivob9ektb1v0uh3bsj3s4ktr5or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMuvfFid2NnSAS0W1Ps5xigxbjhlVsxKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607947520667-1qrcbivob9ektb1v0uh3bsj3s4ktr5or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607947520667:android:7b81f1f9b054fc0c36e43e",
+        "android_client_info": {
+          "package_name": "com.deasil.mymusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607947520667-j3viloludms6j4jljjnmjfacsfng9g9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deasil.mymusic",
+            "certificate_hash": "01a17b127986b9ba4684ce6acc8a5dbc02e9721e"
+          }
+        },
+        {
+          "client_id": "607947520667-1qrcbivob9ektb1v0uh3bsj3s4ktr5or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMuvfFid2NnSAS0W1Ps5xigxbjhlVsxKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607947520667-1qrcbivob9ektb1v0uh3bsj3s4ktr5or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
